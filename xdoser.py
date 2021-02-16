@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ 
-# XDos Dos Script v1.0
+# XaleDoser Dos Script v1.0
+
+# turkhackteam.org #
 
 from queue import Queue
 from optparse import OptionParser
@@ -157,3 +159,5 @@ if __name__ == '__main__':
 			w.put(item)
 		q.join()
 		w.join()
+		
+# turkhackteam.org #
